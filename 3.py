@@ -1,5 +1,7 @@
 # Armin Darabi Mahboub
 
+# example: input: [7,1,3,2,4,5,6] => output: 5
+
 def main():
     str = input('Please enter your array: ')
     
